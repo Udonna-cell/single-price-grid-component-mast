@@ -23,7 +23,7 @@ font-family: Karla;
 body {
   font-size: 16px;
   font-family: Karla;
-  background-color: var(--Grayish-Blue);
+  background-color: var(--Light-Gray);
   padding: 3rem 1rem;
   padding-top: 5.8rem;
 }
@@ -48,7 +48,7 @@ button.btn-primary {
   /* margin: auto; */
 }
 header {
-  background-color: var(--Light-Gray);
+  background-color: #fff;
   margin-bottom: 4rem;
 }
 header > section {
